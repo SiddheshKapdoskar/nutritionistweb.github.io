@@ -1,0 +1,4 @@
+[08-Jul-2023 13:38:57 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[10-Jul-2023 17:56:27 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[11-Jul-2023 17:59:22 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[11-Jul-2023 18:02:56 UTC] PHP Warning:  Undefined array key "data" in C:\Users\SIDDHESH\Local Sites\cricomin\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175

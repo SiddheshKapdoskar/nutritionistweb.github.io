@@ -1,0 +1,5 @@
+2023/06/30 23:37:47 [alert] 4796#5968: OpenEvent("ngx_master_3680") failed (2: The system cannot find the file specified)
+2023/07/09 01:05:11 [alert] 6872#3744: OpenEvent("ngx_master_9180") failed (2: The system cannot find the file specified)
+2023/07/10 23:27:02 [error] 8648#8252: *12 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", upstream: "fastcgi://127.0.0.1:10002", host: "cricomin.local"
+2023/07/10 23:27:02 [error] 8648#8252: *5 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /wp-admin/ HTTP/1.0", upstream: "fastcgi://127.0.0.1:10002", host: "cricomin.local"
+2023/07/12 00:42:02 [alert] 5744#7448: OpenEvent("ngx_master_4572") failed (2: The system cannot find the file specified)
